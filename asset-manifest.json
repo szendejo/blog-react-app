@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blog-react-app/static/css/main.1e18207e.chunk.css",
+    "main.js": "/blog-react-app/static/js/main.b450204f.chunk.js",
+    "main.js.map": "/blog-react-app/static/js/main.b450204f.chunk.js.map",
+    "runtime-main.js": "/blog-react-app/static/js/runtime-main.1b351ef6.js",
+    "runtime-main.js.map": "/blog-react-app/static/js/runtime-main.1b351ef6.js.map",
+    "static/js/2.862c3f23.chunk.js": "/blog-react-app/static/js/2.862c3f23.chunk.js",
+    "static/js/2.862c3f23.chunk.js.map": "/blog-react-app/static/js/2.862c3f23.chunk.js.map",
+    "index.html": "/blog-react-app/index.html",
+    "precache-manifest.15cad89ee3bdeaf8cb3106c4bd8efcf0.js": "/blog-react-app/precache-manifest.15cad89ee3bdeaf8cb3106c4bd8efcf0.js",
+    "service-worker.js": "/blog-react-app/service-worker.js",
+    "static/css/main.1e18207e.chunk.css.map": "/blog-react-app/static/css/main.1e18207e.chunk.css.map",
+    "static/js/2.862c3f23.chunk.js.LICENSE": "/blog-react-app/static/js/2.862c3f23.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b351ef6.js",
+    "static/js/2.862c3f23.chunk.js",
+    "static/css/main.1e18207e.chunk.css",
+    "static/js/main.b450204f.chunk.js"
+  ]
+}
